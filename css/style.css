@@ -1,0 +1,108 @@
+body{
+  background-image: url("../img/caferacer.jpg");
+  background-size: 78em 38em;
+  background-repeat: no-repeat;
+  font-family: 'Prosto One';
+}
+
+/*design above the bike*/
+.tm-top{
+  margin-top:17px;
+  margin-left:9em;
+  width: 13em;
+  font-size: 29px;
+  font-style: oblique;
+  font-weight: bold;
+  color: black;
+  text-shadow: 2px 2px #4f5159;
+
+}
+
+/*
+#tm-slogan{
+  margin-top:10px;
+  margin-left:9em;
+  width: 20em;
+  font-size: 20px;
+}
+*/
+.tm-top p:hover {
+  background-color: #292a2d;
+  color: #edf0f4;
+  padding-left: 5px;
+  border-radius: 5px;
+}
+
+.tm-about{
+  margin-top: 2em;
+  font-size: 17px;
+}
+
+.tm-about p{
+  background-color: black;
+  box-shadow: 3px 3px #282830;
+  width: 6em;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 100px;
+}
+
+nav p:hover{
+  background-color: #0b0b72;
+}
+
+a:link{
+  text-decoration: none;
+  color: #eaeaf7
+}
+
+ul{
+  list-style-type: none;
+}
+
+/*design below the bike*/
+
+main{
+  margin-left: 65em;
+  margin-top: 4em;
+}
+
+.tm-choice{
+  background-color: black;
+  box-shadow: 3px 3px #282830;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+}
+
+.tm-choice a:link {
+  text-decoration: none;
+  color: #eaeaf7;
+}
+
+.tm-social{
+  position: relative;
+  margin-top: 1em;
+}
+
+#tm-you{
+  border-radius: 40px;
+  width: 41px;
+}
+
+#tm-face{
+  border-radius: 60px;
+  width: 43px;
+}
+
+#tm-insta{
+  width: 48px;
+}
+
+.tm-last{
+  background-color: #e3e4e8;
+  margin-top: 2em;
+  padding-top: 10px;
+  padding-bottom: 8px;
+  padding-left: 500px;
+}
